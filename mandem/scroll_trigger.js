@@ -1,0 +1,1 @@
+// Activates glyph-based actions
