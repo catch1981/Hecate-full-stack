@@ -1,1 +1,0 @@
-# Logs voice/text metrics
