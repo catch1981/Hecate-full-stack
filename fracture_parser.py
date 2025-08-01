@@ -1,1 +1,0 @@
-# Translates Fracture Speak
