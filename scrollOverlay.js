@@ -1,1 +1,0 @@
-// Displays scroll history
